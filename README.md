@@ -1,5 +1,8 @@
 # 📝 To-Do List App
 A simple and intuitive To-Do List application built using MongoDB, Express, EJS, and Node.js to help users manage tasks efficiently.
+## 📷 Preview :
+
+![preview](https://github.com/ShivamSeamar/Todo-List-/blob/main/homepage.png) </br>
 ## 🚀 Features
 ✅ Add Tasks – Users can add new tasks with a title and description.</br>
 ✅ Edit Tasks – Modify existing tasks with ease.</br>
@@ -14,8 +17,10 @@ A simple and intuitive To-Do List application built using MongoDB, Express, EJS,
  <li>Database: MongoDB</li>
  <li>Styling: CSS (Dark theme UI)</li>
 </ul>
-## 📷 Preview ![preview]()
+
+
 ## 📌 How to Run
+
 1. Clone the repository:
 
 ```bash
